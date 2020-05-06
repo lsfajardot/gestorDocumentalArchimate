@@ -17,7 +17,7 @@
 
  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/GestorDocumental_Organization.png)
  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Anteproyecto_BusinessFunction.png)
-  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Anteproyecto_BusinessProcess.png)
-  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessFunction.png)
-  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessProcess.png)
-  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/GestorDocumental_Organization.png)
+ ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessFunction.png)
+ ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Anteproyecto_BusinessProcess.png)
+ ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessProcess.png)
+ 
