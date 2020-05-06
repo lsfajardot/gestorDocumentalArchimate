@@ -22,11 +22,20 @@
  
  **Business Function Viewpoint**
  
+ Anteproyecto
  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Anteproyecto_BusinessFunction.png)
+ 
+ Proyecto
+ 
  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessFunction.png)
 
  **Business Process Viewpoint**
  
+ Anteproyecto
+ 
  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Anteproyecto_BusinessProcess.png)
+ 
+ Proyecto
+ 
  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessProcess.png)
  
