@@ -39,4 +39,9 @@
  Proyecto
  
   ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Proyecto_BusinessProcess.png)
+
+   **Application Structure Viewpoint**
+
+  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/ApplicationStructureViewpoint.png)
+
  
