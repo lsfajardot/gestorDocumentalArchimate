@@ -44,8 +44,8 @@
 
   ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/ApplicationStructureViewpoint.png)
 
-**Application Usage Viewpoint**
+<!-- **Application Usage Viewpoint**
 
-  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/ApplicationUsageViewpoint.png)
+  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/ApplicationUsageViewpoint.png) -->
 
  
