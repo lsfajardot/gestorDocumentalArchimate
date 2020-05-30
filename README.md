@@ -48,4 +48,6 @@
 
   ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/ApplicationUsageViewpointv2.png)
 
- 
+ **Infraestrusture Usage Viewpoint**
+
+  ![Diagrama_Clases](https://raw.githubusercontent.com/lsfajardot/gestorDocumentalArchimate/master/Infrastructure_UsageViewpoint.png)
