@@ -54,7 +54,7 @@
   
   
   
- **Análisis de punto de vista de capas (LayeredViewpoint) y punto de vista de mapa de paisajes (LandscapeMapViewpoint) frente a la problemática**
+ **Análisis de punto de vista de capas (Layered Viewpoint) y punto de vista de mapa de paisajes (Landscape Map Viewpoint) frente a la problemática**
  
  En ocasiones no es sencillo obtener una visión completa de la arquitectura y dadas las generales tendencias de sacar un producto funcional lo más pronto posible, a lo que responden por ejemplo las metodologías agiles, tiende a dejarse de lado el análisis general y completo del proceso y del producto, esto puede generar inconvenientes al no tener suficiente claridad y explicitud sobre cada función o modelo que se deba hacer, lo que en algunas ocasiones puede resultar en duplicidad o confusión en las tareas a realizar y a su vez puede generar problemas  en la integración del producto final.
  
